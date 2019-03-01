@@ -49,11 +49,12 @@ header {
   font-weight: thin;
 }
 
-/*#main-doc header{
-  text-align:left;
-  margin:0px;
+#main-doc header {
+  text-align: left;
+  margin: 0px;
 }
-#navbar ul{
+
+/*#navbar ul{
   height:88%;
   overflow-y:auto;
   overflow-x:hidden;
