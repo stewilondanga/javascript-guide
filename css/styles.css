@@ -109,9 +109,9 @@ code {
   border-radius: 5px;
 }
 
-/*@media only screen and (max-width: 815px) {
-    /* For mobile phones: */
-/*#navbar ul{
+@media only screen and (max-width: 815px) {
+  /* For mobile phones: */
+  /*#navbar ul{
   border:1px solid;
     height:207px;
   }
@@ -134,7 +134,7 @@ code {
   }
   #main-doc section {
 /*     padding-top: 240px; */
-/*}
+  /*}
 }
 /*@media only screen and (max-width: 400px) {
   #main-doc{
