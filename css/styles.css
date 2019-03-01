@@ -35,11 +35,12 @@ html, body {
   border-color: rgba(0, 22, 22, 0.4)
 }
 
-/*.intro-img{
-	height: 100px;
-	margin: 10px;
+.intro-img {
+  height: 100px;
+  margin: 10px;
 }
-header{
+
+/*header{
   color:black;
   font-size: 30px;
   margin:10px;
