@@ -141,21 +141,22 @@ code {
   }
 }
 
-/*@media only screen and (max-width: 400px) {
-  #main-doc{
-    margin-left:-10px;
+@media only screen and (max-width: 400px) {
+  #main-doc {
+    margin-left: -10px;
   }
-  code{
-    margin-left:-20px;
-    width:100%;
-    padding:15px;
-    padding-left:10px;
-    padding-right:45px;
-    min-width:233px;
+
+  code {
+    margin-left: -20px;
+    width: 100%;
+    padding: 15px;
+    padding-left: 10px;
+    padding-right: 45px;
+    min-width: 233px;
   }
 }
 
-.containers {
+/*.containers {
   width: 520px;
   margin: 20px auto;
 }
