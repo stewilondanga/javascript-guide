@@ -85,12 +85,13 @@ header {
   margin-bottom: 110px;
 }
 
-/*section article{
+section article {
   color: #4d4e53;
-  margin:15px;
-  font-size:0.96em;
+  margin: 15px;
+  font-size: 0.96em;
 }
-section li {
+
+/*section li {
   margin:15px 0px 0px 20px;
 }
 code{
