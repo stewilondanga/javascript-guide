@@ -130,12 +130,13 @@ code {
     border-bottom: 2px solid;
   }
 
-  /*#main-doc{
+  #main-doc {
     position: relative;
-    margin-left:0px;
-    margin-top:270px;
+    margin-left: 0px;
+    margin-top: 270px;
   }
-  #main-doc section {
+
+  /*#main-doc section {
 /*     padding-top: 240px; */
   /*}
 }
