@@ -17,11 +17,11 @@ html, body {
   height: 2.5em;
 }
 
-/*.my_social a img {
+.my_social a img {
   height: 1.5em;
 }
 
-#navbar{
+/*#navbar{
   position:fixed;
   min-width:290px;
 	background-color: rgba(55,200,120,.4);
