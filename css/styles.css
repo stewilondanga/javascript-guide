@@ -166,7 +166,7 @@ code {
   font-weight: normal;
   text-align: center;
   color: #c0c0c0;
-  padding-top: 7250px;
+  padding-top: 7300px;
   padding-bottom: 10px;
   width: 375px;
   margin: 0 auto;
@@ -183,12 +183,12 @@ code {
   transition: all 0.2s linear;
 }
 
-/*.cal:hover {
+.cal:hover {
   transform: scale(2.5);
   transition: all 0.4s linear;
 }
 
-.cal caption {
+/*.cal caption {
   background: #d44;
   color: #eee;
   font-size: 15px;
