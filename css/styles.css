@@ -91,10 +91,11 @@ section article {
   font-size: 0.96em;
 }
 
-/*section li {
-  margin:15px 0px 0px 20px;
+section li {
+  margin: 15px 0px 0px 20px;
 }
-code{
+
+/*code{
   display:block;
     text-align: left;
   white-space: pre;
