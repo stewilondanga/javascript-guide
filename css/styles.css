@@ -95,20 +95,21 @@ section li {
   margin: 15px 0px 0px 20px;
 }
 
-/*code{
-  display:block;
-    text-align: left;
+code {
+  display: block;
+  text-align: left;
   white-space: pre;
   position: relative;
-    word-break: normal;
-    word-wrap: normal;
-    line-height: 2;
-    background-color:#f7f7f7;
-  padding:15px;
-  margin:10px;
-    border-radius:5px;
+  word-break: normal;
+  word-wrap: normal;
+  line-height: 2;
+  background-color: #f7f7f7;
+  padding: 15px;
+  margin: 10px;
+  border-radius: 5px;
 }
-@media only screen and (max-width: 815px) {
+
+/*@media only screen and (max-width: 815px) {
     /* For mobile phones: */
 /*#navbar ul{
   border:1px solid;
